@@ -99,8 +99,8 @@ This is the best option if you want to plug in your camera and get started right
 For a more custom installation, follow these steps to build the SDK from source.
 1. Clone the repository and create a build directory:
    ```bash
-   git clone https://github.com/realsenseai/librealsense.git
-   cd librealsense
+   git clone https://github.com/qubuhuborg/pyrealsense2.git
+   cd pyrealsense2
    mkdir build && cd build
    ```
 2. Run CMake to configure the build:
